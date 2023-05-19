@@ -152,6 +152,6 @@ margin: 0 10em;
     color: purple;
 }
 
-.container__botao:hover{
+.container__botao a:hover{
     background-color: var(--botao-azul-efeito);
 }
