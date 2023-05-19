@@ -143,3 +143,16 @@ margin: 0 10em;
     font-size: 14px;
     margin: 2em 0;
 }
+
+.lista__link a:hover{
+    color: var(--botao-azul);
+}
+
+.lista__link a:active{
+    color: purple;
+}
+
+.container__botao:hover{
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-fundo);
+}
